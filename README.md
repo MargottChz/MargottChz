@@ -1,7 +1,4 @@
-    <div alig="center">
-        <h1 alig="center">Bienvenid@ al perfil de</h1>Margott
-    </div>
-### Bienvenid@ a mi perfil👋
+### Bienvenid@ al perfil de Margott👋
 
 <!--
 **MargottChz/MargottChz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
