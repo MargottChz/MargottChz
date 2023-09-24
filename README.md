@@ -1,4 +1,4 @@
-### Bienvenid@ al perfil de Margott👋
+### 👋😄 Bienvenid@ al perfil de Margott
 
 <!--
 **MargottChz/MargottChz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
