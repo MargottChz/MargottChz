@@ -13,7 +13,7 @@
 
 <br>
 
-- Una apasionadora desarrollador front-end autodidacta
+Soy una desarrolladora apasionada por crear aplicaciones web limpias con funcionalidad intuitiva. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas. Siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos.
 
 <br><br>
 <!-- ************************************** Tecnologias ************************************** -->
