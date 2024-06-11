@@ -4,14 +4,11 @@
 <!-- ************************************** Frase celebre ************************************** -->
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cuanto+más+sabes,;+más+te+das+cuenta+de+que+no+sabes+nada;<<Sócrates>>"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Cuanto+más+sabes,;+más+te+das+cuenta+de+que+no+sabes+nada.;<<Sócrates>>"></a>
 </p>
 
 <!-- ************************************** Sobre mi ************************************** -->
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Acerca de mí**
-
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Acerca de mí </b>
 <br>
 
 Soy una desarrolladora apasionada por crear aplicaciones web limpias con funcionalidad intuitiva. Disfruto el proceso de convertir ideas en realidad utilizando soluciones creativas. Siempre tengo curiosidad por aprender nuevas habilidades, herramientas y conceptos.
